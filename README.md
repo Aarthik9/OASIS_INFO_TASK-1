@@ -1,1 +1,2 @@
-# OASIS_INFO_TASK-1
+# Landing-Page-OIBSIP
+Oasis Infobyte Task 1
